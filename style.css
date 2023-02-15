@@ -1,0 +1,88 @@
+*{
+    
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.logo {width: 500px;}
+.ver{
+    writing-mode: vertical-lr;
+    -ms-writing-mode: tb-rl;
+    transform: rotate(180deg);
+    font-size: 30px;
+}
+.head{
+    color: rgb(8, 8, 8);
+    padding: 0px 50px;
+    font-size: 60px;
+}
+
+table{
+    margin: 100px auto 100px auto;
+    width: 2000px;
+    min-width: 2000px;
+    max-width: 2000px;
+    border: 20px solid #d9dade;
+    border-collapse: collapse;
+    background-color: white;
+}
+td,th{
+    border: 20px solid #d9dade;
+    border-collapse: collapse;
+}
+.dt{
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.mon{
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.tue{
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.wed{
+    font-size: 26px;
+    
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.thu{
+    font-size: 26px;
+    
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.fri{
+    font-size: 26px;
+    
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.sat{
+    font-size: 26px;
+    
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.sun{
+    font-size: 26px;
+    
+    color: rgb(0, 0, 0);
+    padding: 30px 50px;
+}
+.time{
+    
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+}
+
+tr td {background-color: rgb(24, 85, 24);}
