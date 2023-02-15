@@ -1,27 +1,31 @@
-*{
-    
+* {
+
     font-size: 30px;
     font-weight: 600;
     text-align: center;
     box-sizing: border-box;
-    position: relative;
-    margin: 0;
-    padding: 0;
+
+
 }
-.logo {width: 500px;}
-.ver{
+
+.logo {
+    width: 500px;
+}
+
+.ver {
     writing-mode: vertical-lr;
     -ms-writing-mode: tb-rl;
     transform: rotate(180deg);
     font-size: 30px;
 }
-.head{
+
+.head {
     color: rgb(8, 8, 8);
     padding: 0px 50px;
     font-size: 60px;
 }
 
-table{
+table {
     margin: 100px auto 100px auto;
     width: 2000px;
     min-width: 2000px;
@@ -30,59 +34,72 @@ table{
     border-collapse: collapse;
     background-color: white;
 }
-td,th{
+
+td,
+th {
     border: 20px solid #d9dade;
     border-collapse: collapse;
 }
-.dt{
+
+.dt {
     font-size: 26px;
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.mon{
+
+.mon {
     font-size: 26px;
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.tue{
+
+.tue {
     font-size: 26px;
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.wed{
+
+.wed {
     font-size: 26px;
-    
+
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.thu{
+
+.thu {
     font-size: 26px;
-    
+
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.fri{
+
+.fri {
     font-size: 26px;
-    
+
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.sat{
+
+.sat {
     font-size: 26px;
-    
+
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.sun{
+
+.sun {
     font-size: 26px;
-    
+
     color: rgb(0, 0, 0);
     padding: 30px 50px;
 }
-.time{
-    
+
+.time {
+
     color: rgb(0, 0, 0);
     padding: 10px 30px;
 }
 
-tr td {background-color: rgb(24, 85, 24);}
+tr td {
+    background-color: rgb(24, 85, 24);
+}
